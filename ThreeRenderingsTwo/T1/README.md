@@ -5,4 +5,6 @@
 
 ## 功能
 1.各自的原点
-```html <img src="image/各自的原点.gif"alt="Image Description"> ```
+```
+markdown ![](image/各自的原点.gif)
+```
